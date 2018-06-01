@@ -1,12 +1,12 @@
-#Phpurl
+# Phpurl
 此脚本是用来学习php和爬虫基本原理的，其中使用到了redis，mysql以及php的库simplehtmldom.
 
-##准备
+## 准备
 * mysqli
 * redis
 * Mysql
 
-##Mysql
+## Mysql
 ___
 **database**:url_caoyi
 
@@ -30,7 +30,7 @@ url       |
 
 ----
 
-##使用
+## 使用
 1.把需要爬的网址存入url_post中
 
 	insert into url_post values("...");
